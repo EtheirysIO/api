@@ -9,7 +9,7 @@ namespace EtheirysSynchronos.API
     public class Api
     {
         public const int Version = 7;
-        public const string Path = "/eth"; //wtf
+        public const string Path = "/eth";
 
         public const string SendFileAbortUpload = "AbortUpload";
         public const string InvokeFileSendFiles = "SendFiles";
