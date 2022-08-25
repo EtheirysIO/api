@@ -8,7 +8,7 @@ namespace EtheirysSynchronos.API
 {
     public class Api
     {
-        public const int Version = 7;
+        public const int Version = 8;
         public const string Path = "/eth";
 
         public const string SendFileAbortUpload = "AbortUpload";
@@ -19,7 +19,7 @@ namespace EtheirysSynchronos.API
         public const string SendFileDeleteAllFiles = "DeleteAllFiles";
 
         public const string InvokeHeartbeat = "Heartbeat";
-        public const string InvokeGetSystemInfo = "GetSystemInfo";
+        
         public const string OnUpdateSystemInfo = "OnUpdateSystemInfo";
 
         public const string InvokeAdminGetOnlineUsers = "AdminGetOnlineUsers";
