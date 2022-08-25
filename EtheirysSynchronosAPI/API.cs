@@ -19,7 +19,8 @@ namespace EtheirysSynchronos.API
         public const string SendFileDeleteAllFiles = "DeleteAllFiles";
 
         public const string InvokeHeartbeat = "Heartbeat";
-        
+        public const string InvokeGetSystemInfo = "GetSystemInfo";
+
         public const string OnUpdateSystemInfo = "OnUpdateSystemInfo";
 
         public const string InvokeAdminGetOnlineUsers = "AdminGetOnlineUsers";
